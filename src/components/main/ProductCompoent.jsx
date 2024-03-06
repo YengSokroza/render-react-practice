@@ -1,5 +1,5 @@
 import { Card } from "flowbite-react";
-import ProductData from "../data/ProductData.json";
+import ProductData from "../../data/ProductData.json";
 
 const ProductComponent = () => {
   return (

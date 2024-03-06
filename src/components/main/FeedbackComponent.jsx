@@ -1,5 +1,5 @@
 import { Avatar, Blockquote, Rating } from "flowbite-react";
-import FeedbackData from "../data/FeedbackData.json";
+import FeedbackData from "../../data/FeedbackData.json";
 import { Carousel } from "flowbite-react";
 
 const FeedbackComponent = () => {

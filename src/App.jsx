@@ -1,7 +1,7 @@
 
-import NavbarComponent from "./components/NavbarComponent";
-import FooterComponent from "./components/FooterComponent";
-import MainComponent from "./components/MainComponent";
+import NavbarComponent from "./components/header/NavbarComponent";
+import FooterComponent from "./components/footer/FooterComponent";
+import MainComponent from "./components/main/MainComponent";
 
 
 function App() {
@@ -9,11 +9,9 @@ function App() {
     <>
       <div className="h-screen flex justify-between flex-col ">
         <NavbarComponent />
-        
-        <MainComponent></MainComponent>
+        <MainComponent/>
         <FooterComponent/>
       </div>
-      
     </>
   );
 }
