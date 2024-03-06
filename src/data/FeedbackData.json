@@ -1,0 +1,41 @@
+[
+    {
+      "_id": "63364ac209dba475b90166ff",
+      "name": "Rung",
+      "code": "0042",
+      "text": "Your skin feels like it’s sipping a refreshing cocktail when using Carrot & Stick’s moisturizer. The blend of naturally sourced ingredients like jojoba seed oil and hyaluronic acid is a game-changer!  🌿🌟",
+      "image": "/src/assets/pf.jpg"
+    },
+    {
+      "_id": "6329820009dba475b9faf355",
+      "name": "Moa Sotheam",
+      "code": "0041",
+      "text": "Carrot & Stick’s brightening pads are like a sunrise for your face. They gently exfoliate, leaving your skin looking radiant and ready to take on the day.  ☀️✨",
+      "image": "/src/assets/pf1.jpg"
+    },
+    {
+      "_id": "62ee400a690d327e94df0d6a",
+      "name": "Bunly",
+      "code": "0040",
+      "text": "Lily here! My sensitive, spot-prone skin is singing praises for Carrot & Stick. Natural, organic, and effective—what more could I ask for?  🎶🌸",
+      "image": "/src/assets/pf4.jpg"
+    },
+    {
+      "_id": "62ede242690d327e94de974b",
+      "name": "Try Sopheap",
+      "code": "0039",
+      "text": "I’ve tried countless serums, but Carrot & Stick’s targeted serums hit the bullseye. Whether it’s hydration, anti-aging, or blemish control, they’ve got you covered. 🎯💧",
+      "image": "/src/assets/pf3.jpg"
+    },
+    {
+      "_id": "62e8bc10e0567858243c80dc",
+      "name": "Limheng",
+      "code": "0038",
+      "text": "Lyndsey’s verdict: Carrot & Stick’s products rival the expensive ones. Quality, fragrance, and softness—check, check, and check! 💰🌟",
+      "image": "/src/assets/pf2.jpg"
+    }
+   
+  
+  
+   
+]

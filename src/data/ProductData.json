@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "Daily UV Defense Sunscreen",
+        "price": "18",
+        "image": "/src/assets/p1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Dewy Glow Jelly Cream",
+        "price": "26",
+        "image": "/src/assets/p3.webp"
+    },
+    {
+        "id": "3",
+        "name": "Green Tea Seed Hyaluronic Serum",
+        "price": "30",
+        "image": "/src/assets/p2.webp"
+    },
+    {
+        "id": "4",
+        "name": "Energy Sheet Mask",
+        "price": "2.50",
+        "image": "/src/assets/p4.webp"
+    },
+    {
+        "id": "5",
+        "name": "Dewy Tint Lip Balm",
+        "price": "11",
+        "image": "/src/assets/p5.webp"
+    },
+    {
+        "id": "6",
+        "name": "No-Sebum Mineral Powder",
+        "price": "14",
+        "image": "/src/assets/p6.webp"
+    },
+    {
+        "id": "7",
+        "name": "Cherry Blossom Tone-Up Cream",
+        "price": "28",
+        "image": "/src/assets/p7.webp"
+    },
+    {
+        "id": "8",
+        "name": "Retinol Cica Focusing Patch",
+        "price": "15",
+        "image": "/src/assets/p8.webp"
+    }
+
+]
